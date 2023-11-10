@@ -4,14 +4,12 @@ description: Unique PvP and PvE servers for everyone
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://xga.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# User settings https://discord.gg/yBrxFdxNBV
+# User settings
 username: XGA.io
 user_description: Unique PvP and PvE servers for everyone
 user_title: Public gaming servers for everyone
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+discord: https://discord.gg/yBrxFdxNBV
+twitter_username: xga_io
 
 # Google-analytics
 google-analytics:
