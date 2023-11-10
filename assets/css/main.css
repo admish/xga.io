@@ -3496,6 +3496,9 @@ sub,sup{
 .tech{
     margin:10px
 }
+img.tech {
+    width: 10em;
+}
 .user{
     text-align:center;
     font-size:60px;
