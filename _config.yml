@@ -6,7 +6,7 @@ url: "https://xga.io" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: XGA.io
-user_description: Unique servers for almost everyone. Join our Discord for the latest news and to share any suggestions. <br />All of our servers begin with [XGA] in the title.
+user_description: Unique servers for almost everyone. Join our Discord for the latest news and to share any suggestions. <br /><br /><em>All of our servers begin with <strong>[XGA]</strong> in the title.</em>
 user_title: Public gaming servers for everyone
 discord: https://discord.gg/yBrxFdxNBV
 twitter_username: xga_io
